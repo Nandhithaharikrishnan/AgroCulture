@@ -5,7 +5,7 @@ Developed an online platform to connect farmers with buyers for direct transacti
 Automated inventory and logistics modules to optimize agricultural supply chains. 
 Enabled secure payment and centralized price monitoring for fair trade.
 
-### 🚀 Highlights
+# Highlights
 
 ✔ Farmer-to-Buyer Direct Marketplace  
 ✔ Transparent Pricing & Fair Trade System  
